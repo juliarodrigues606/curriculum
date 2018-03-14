@@ -1,2 +1,2 @@
 # curriculum
-Curriculum  Júlia Rodrigues
+Curriculum  Júlia Rodrigues - versao 2.0
